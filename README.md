@@ -11,4 +11,4 @@ MSc in Artificial Intelligence from Johannes Kepler University Linz, with hands-
 - [WSI-to-DICOM Converter](https://github.com/solmazhaddady/WSI-to-DICOM-Converter)
 
 ### CV
-[View my CV](./Solmaz_Haddady_AI_ML_Engineer_CV.pdf)
+[View my CV]( CV-Solmaz_Haddady_AI_Researcher_ML_Engineer.pdf)
